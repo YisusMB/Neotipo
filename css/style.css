@@ -1804,11 +1804,11 @@ form label.error {
         }
 
 .menu-mobile-btn i:before {
-    content: "\f20e";
+    content: "\f00b";
 }
 
 .menu-mobile-btn.active i:before {
-    content: "\f2d7";
+    content: "\f00b";
 }
 /*------------------------------------------------------------
     Search Menu Bar & Cart Menu Bar
