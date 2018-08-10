@@ -118,6 +118,29 @@ a {
         -o-transition: all 0.25s ease 0s;
     }
 
+s, s:focus, s:active, s:link, img {
+    outline: none;
+}
+
+s {
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    transition: all 0.25s ease 0s;
+    -moz-transition: all 0.25s ease 0s;
+    -webkit-transition: all 0.25s ease 0s;
+    -o-transition: all 0.25s ease 0s;
+}
+
+    s:hover {
+        color: #e6ae49;
+        text-decoration: none;
+        transition: all 0.25s ease 0s;
+        -moz-transition: all 0.25s ease 0s;
+        -webkit-transition: all 0.25s ease 0s;
+        -o-transition: all 0.25s ease 0s;
+    }
+
 .video {
     display: block;
 }
