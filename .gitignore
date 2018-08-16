@@ -60,9 +60,6 @@ target/
 
 # Other
 *~
-*.png
-*.jpg
-*.jpeg
 *.gif
 logfile.txt
 wget-log*
